@@ -28,7 +28,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sambhav1501&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sambhav1501&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sambhav1501&amp;theme=dracula&amp;hide_border=false" height="150" alt="stats graph" "  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sambhav1501&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false" height="150" alt="stats graph" /> -->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambhav1501&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
