@@ -6,11 +6,11 @@
 <h1 align="center">I'm Sambhav Jain</h1>
 <h2 align="center">Aspiring Software Developer from India</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sambhav1501&label=Profile%20views&color=0d89e7&style=for-the-badge" alt="abhishek-bansode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sambhav1501&label=Profile%20views&color=0d89e7&style=for-the-badge" alt="Sambhav1501" /> </p>
 
 
 <!-- Profile counter - also can be used -->
-<!-- [![](https://visitcount.itsvg.in/api?id=Abhishek-Bansode&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=Sambhav1501&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
 
 # 💫 About Me:
 - 🔭 I’m currently active contributor on: [checkstyle.org](https://github.com/checkstyle/checkstyle)
@@ -34,14 +34,14 @@
 </div>
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-bansode&" alt="abhishek-bansode" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sambhav1501&" alt="Sambhav1501" /></p> -->
 
 <br clear="both">
 
 <!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek-bansode/abhishek-bansode/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek-bansode/abhishek-bansode/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/abhishek-bansode/abhishek-bansode/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sambhav1501/Sambhav1501/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sambhav1501/Sambhav1501/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/abhishek-bansode/Sambhav1501/output/github-snake.svg" />
 </picture> -->
 
 <picture>
