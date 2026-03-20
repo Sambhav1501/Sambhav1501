@@ -6,7 +6,7 @@
 <h1 align="center">I'm Sambhav Jain</h1>
 <h2 align="center">Aspiring Software Developer from India</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-bansode&label=Profile%20views&color=0d89e7&style=for-the-badge" alt="abhishek-bansode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sambhav1501&label=Profile%20views&color=0d89e7&style=for-the-badge" alt="abhishek-bansode" /> </p>
 
 
 <!-- Profile counter - also can be used -->
@@ -15,9 +15,7 @@
 # 💫 About Me:
 - 🔭 I’m currently active contributor on: [checkstyle.org](https://github.com/checkstyle/checkstyle)
 
-- 🌱 I’m currently learning: **Java | Spring | SpringBoot | AWS | Backend Development**
-
-- 💬 Ask me about: **Java | Spring | SpringBoot | AWS | Backend Development**
+- 🌱 I’m currently learning: **Java | AWS | Backend Development**
 
 ## ✍️ **Random Dev Quote:**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
